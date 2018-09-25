@@ -47,9 +47,25 @@ table {
 	border-spacing: 0;
 }
 h1 {
- font-size:70px;
- color: red;
+ font-size:40px;
  font-family:'PT Sans Caption', sans-serif;
+ font-weight:bold;
+ margin-bottom: 10px;
 
  }
-p {color: green;}
+ p:first-of-type{color: gray;}
+
+p {font-family:'PT Sans', sans-serif;}
+body {
+  background-image: url(dc-online-media-mockup.jpg);
+  background-size: 800px 20624px;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+body {
+  width: 700px;
+  margin-top:69px;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left:auto;
+}
