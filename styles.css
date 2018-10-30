@@ -1,6 +1,6 @@
 @import "reset.css";
 body {
-  /* background-image: url(dc-online-media-mockup.jpg); */
+  /*background-image: url(dc-online-media-mockup.jpg); */
   background-size: 800px 20624px;
   background-position: top center;
   background-repeat: no-repeat;
@@ -37,19 +37,29 @@ article h3 {
   margin-top: 36px;
 	line-height: 34px;
 }
+<<<<<<< HEAD
 article h3 + article p {
+=======
+h3 + p  {
+>>>>>>> 6fa3d72e689a511b66aeb2a461d55e3eda92ee81
   margin-top: 6px;
 }
 article p:first-of-type {
 	color: gray;
 	font-size: 25px;
 	line-height: 30px;
+  margin-bottom: 30px;
 }
 article p, article ul {
 	font-size: 25px;
 	line-height: 30px;
 }
+<<<<<<< HEAD
  a {
+=======
+
+a {
+>>>>>>> 6fa3d72e689a511b66aeb2a461d55e3eda92ee81
 	color:inherit;
 }
 
